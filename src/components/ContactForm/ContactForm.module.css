@@ -1,0 +1,39 @@
+.form {
+    border: 1px solid #080808;
+    width: 300px;
+    height: 135px;
+    padding-top: 10px;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.formTitle {
+    margin-left: 30px;
+}
+.formInput {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.formButton {
+cursor: pointer;
+}
+
+.formButton:active {
+    background-color:#546ff7; 
+}
+
+.formFilter {
+    margin-left: 30px; 
+}
+
+.formContactList {
+    display: flex;
+    margin-left: 50px;
+}
+
+.formContact {
+    margin-right: 10px;
+}
+
+
